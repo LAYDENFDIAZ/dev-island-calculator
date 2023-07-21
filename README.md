@@ -1,1 +1,1 @@
-# dev-island-calculator
+# calculator
